@@ -37,7 +37,7 @@ Project structure is split into clear layers:
 
 ### Requirements
 
-- Python 3.11+
+- Python 3.12+
 - PostgreSQL 14+
 
 ### Install
